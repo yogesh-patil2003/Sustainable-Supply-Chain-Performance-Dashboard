@@ -48,10 +48,6 @@ This project showcases a **Power BI dashboard** built to monitor and optimize su
 > *![Screenshot 2025-02-08 004026](https://github.com/user-attachments/assets/436dfd01-036f-42da-a993-54edf751ec2b)
 *
 
-## 📜 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ---
 
 *Built by Yogesh Patil for academic and professional portfolio purposes.*
