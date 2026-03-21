@@ -45,7 +45,7 @@ This project showcases a **Power BI dashboard** built to monitor and optimize su
 
 ## 📷 Screenshot
 
-> *![Screenshot 2025-02-08 004026](https://github.com/user-attachments/assets/436dfd01-036f-42da-a993-54edf751ec2b)
+> *<img width="1087" height="738" alt="image" src="https://github.com/user-attachments/assets/aa83f23a-2719-4a4b-a5f6-1bddd07fe2cc" />
 *
 
 ---
